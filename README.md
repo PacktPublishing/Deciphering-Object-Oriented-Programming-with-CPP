@@ -1,6 +1,6 @@
 # Deciphering Object-Oriented Programming with C++
 
-<a href="https://www.packtpub.com/product/deciphering-object-oriented-programming-with-c/9781804613900?utm_source=github&utm_medium=repository&utm_campaign=9781804613900"><img src="https://static.packt-cdn.com/products/9781804613900/cover/smaller" alt="About the Author" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/deciphering-object-oriented-programming-with-c/9781804613900?utm_source=github&utm_medium=repository&utm_campaign=9781804613900"><img src="https://static.packt-cdn.com/products/9781804613900/cover/smaller" alt="Deciphering Object-Oriented Programming with C++" height="256px" align="right"></a>
 
 This is the code repository for [Deciphering Object-Oriented Programming with C++](https://www.packtpub.com/product/deciphering-object-oriented-programming-with-c/9781804613900?utm_source=github&utm_medium=repository&utm_campaign=9781804613900), published by Packt.
 
