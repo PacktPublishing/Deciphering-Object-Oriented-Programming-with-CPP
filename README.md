@@ -65,3 +65,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 has specialized in object-oriented (OO) technologies since nearly their inception. She began as an early adopter of C++ at General Electric in research and development (R&D). After working on various projects, she was one of 10 charter members to start GE’s Advanced Concepts Center to commercially utilize OO technologies. She later started her own OO training and consulting business, specializing in OOP using C++ and Java. She additionally programs in Python. She has developed and taught many OO courses and has clients spanning industries such as academia, finance, transportation, software, embedded systems, manufacturing, and medical imaging. She has also taught C++ and OO courses at Penn State University.
 Ms. Kirk has earned a Bachelor of Science degree in Computer and Information Sciences from the University of Delaware and a Master of Science degree in Computer Science from Temple University.
 Ms. Kirk is married and has two grown children; she and her family live on a horse farm in Pennsylvania.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781804613900">https://packt.link/free-ebook/9781804613900 </a> </p>
